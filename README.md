@@ -1,11 +1,4 @@
 ## :wave: Hi! I'm Patrício
-
-- Name: Patrício Simões
-- Studying: Computer Science in Universidade-Trás-os-Montes-e-Alto-Douro (UTAD)
-- What i'm studying for: Full Stack Developer
-- Currently learning: C, C#, SQL
-- Contact: uni.psimoes@hotmail.com
- 
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Patricio-Simoes&theme=dark">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Simoes&theme=dark">
