@@ -1,4 +1,4 @@
-##:wave: Hey, i'm Patrício!
+## :wave: Hey, i'm Patrício!
 <div align="center">
   <a href="https://github.com/Patricio-Simoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patricio-Simoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
