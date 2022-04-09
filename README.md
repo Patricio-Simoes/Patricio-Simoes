@@ -13,5 +13,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
-  
-  ##
+![Snake animation](https://github.com/Patricio-Simoes/Patricio-Simoes/blob/output/github-contribution-grid-snake.svg)
