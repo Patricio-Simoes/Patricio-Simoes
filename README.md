@@ -12,14 +12,12 @@
 
 <br>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=patricio-simoes&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=patricio-simoes&theme=dark&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=patricio-simoes&theme=dark&hide_border=true" />
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=patricio-simoes&custom_title=Patrício-Simões's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=patricio-simoes&custom_title=Patrício-Simões's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
   
   ## 🖱 Languages i tend to work with:
   
