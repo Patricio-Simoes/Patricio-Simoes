@@ -51,4 +51,4 @@
 </div>
 
 <h3 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{patricio-simoes}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{patricio-simoes}/count.svg" alt="Patrício-Simões :: Visitor's Count" /></p>
