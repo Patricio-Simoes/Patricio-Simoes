@@ -11,10 +11,10 @@
 ## 📊 GitHub Stats:
 
 <br>
-<p align="left">
+<div style="width:100%">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=patricio-simoes&show_icons=true&theme=dark&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=patricio-simoes&theme=dark&hide_border=true" />
-</p>
+ </div>
 <br>
 
 ![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=patricio-simoes&custom_title=Patrício-Simões's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
