@@ -19,7 +19,7 @@
 
 ![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=patricio-simoes&custom_title=Patrício-Simões's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
   
-  ## 🖱 Languages i tend to work with:
+  ## <img height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> Languages i tend to work / have worked with :
   
   ### Programming Languages:
   
@@ -30,6 +30,9 @@
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Xamarim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 </div>
 
 ### Markup Languages:
@@ -43,6 +46,9 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">
 </div>
 
  ## 🚴‍♀️ Follow me on:
