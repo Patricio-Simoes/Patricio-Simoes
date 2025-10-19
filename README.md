@@ -6,7 +6,7 @@ Platforms Engineer currently working mainly with Linux, AWS, Kubernetes and Terr
 
 **Linux Installer**
 
-This is a project that i started for fun, i found myself with a need to automate the process of software installation on a fesh minimal install of Linux. 
+This is a project that i started for fun, i found myself with a need to automate the process of software installation on a fresh minimal install of Linux. 
 
 [The Linux Installer](https://github.com/Patricio-Simoes/linux-installer) does just that, it offers a CLI interface using Python, alongside Bash to automate the process of setting up a new Linux instance with the software and configuration that the user has chosen.
 
