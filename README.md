@@ -1,26 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
+# Patrício Simões
 
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patricio-simoes&show_icons=true&count_private=true&hide_border=false&theme=dark" alt="Patricio Simões's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricio-simoes&layout=compact&hide_border=false&theme=dark" />
-</div>
+Platforms Engineer currently working mainly with Linux, AWS, Kubernetes and Terraform.
 
-###
+## Things i'm building
 
-<div align="center">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="ASP.NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-</div>
+**Linux Installer**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCC&height=120&section=footer"/>
+This is a project that i started for fun, i found myself with a need to automate the process of software installation on a fesh minimal install of Linux. 
+
+[The Linux Installer](https://github.com/Patricio-Simoes/linux-installer) does just that, it offers a CLI interface using Python, alongside Bash to automate the process of setting up a new Linux instance with the software and configuration that the user has chosen.
+
+**Homelab**
+
+My homelab currently consists of a Beelink mini-pc, running Docker containers, backed up by a Synology NAS for storage.
+
+I plan on migrating my homelab to a 2 node Kubernetes homelab. This will happen sometime in the future, currently no ETA since it is currently working as intended and this migration will be done for the sake of improving my Kubernetes skills.
