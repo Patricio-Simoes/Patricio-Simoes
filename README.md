@@ -6,7 +6,7 @@ I am Patrício, a DevOps Engineer currently working mainly with Linux, AWS, Kube
 
 I have a homelab that i use to play around with new technologies and try out fun things. It currently consists of a Beelink mini-pc, running Proxmox, backed up by a Synology NAS for storage. I plan on migrating this to a Kubernetes cluster on the future, (mostly for fun).
 
-## Things i'm building 📖
+## Things i'm building 🔨
 
 **Linux Installer**
 
@@ -23,6 +23,18 @@ I have designed it to work as a knowledge vault, in fact, the whole thing is bui
 **Bash Utilities**
 
 [Bash Utilities](https://github.com/Patricio-Simoes/bash-utilities) is a repository meant to store utility scripts for Bash. (E.g. A script that sets up Git, generating a new SSH key and configuring the user).
+
+## Certifications 📖
+
+I have successfuly aquired the following certifications:
+
+- Azure Fundamentals (AZ-900)
+- AWS Cloud Practitioner
+- Google Cloud Digital Leader
+
+I am currently pursuing the following:
+
+- KCNA (Kubernetes Cloud Native Associate)
 
 ## Ask Me About 🌱
 
