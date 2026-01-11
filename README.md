@@ -18,7 +18,7 @@ This project offers a CLI interface using Python, alongside Bash to automate the
 
 The [DevOps](https://github.com/Patricio-Simoes/devops) repository is where i store my notes and mini-projects related to technologies that i use or that i want to learn.
 
-I have designed it to work as a knowledge vault, in fact, the whole thing is built inside [Obsidian](https://obsidian.md) to take leveradge of it's capabilities.
+I have designed it to work as a knowledge vault, in fact, the whole thing is built inside [Obsidian](https://obsidian.md) to take leverage of it's capabilities.
 
 **Bash Utilities**
 
